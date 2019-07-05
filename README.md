@@ -45,3 +45,7 @@ django-admin startproject example
 [Python + django web](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-template)<br>
 [Tutotial django](https://giovannireisnunes.wordpress.com/2018/04/06/exemplo-em-django-parte-1/)<br>
 [Pybuilder](https://pybuilder.github.io/documentation/tutorial.html)<br>
+
+[Celery](https://pybuilder.github.io/documentation/tutorial.html)<br>
+[Celery](https://medium.com/@kevin.michael.horan/scheduling-tasks-in-django-with-the-advanced-python-scheduler-663f17e868e6)<br>
+[Celery](https://code.tutsplus.com/tutorials/using-celery-with-django-for-background-task-processing--cms-28732)<br>
