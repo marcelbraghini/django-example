@@ -37,6 +37,9 @@ django-admin startproject example
 # aplicando migrações
 ./manage.py makemigrations
 ./manage.py migrate --run-syncdb
+
+# executar testes com pybuilder, dentro do ambiente virtual
+pyb -v
 ```
 
 [Django Configurações de Produção](https://www.ibm.com/developerworks/br/library/os-django/index.html)<br>
