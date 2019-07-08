@@ -1,7 +1,12 @@
 language: python
+dist: 'xenial'
+sudo: true
 python:
-  - "3.7"
-  - "pypy"
-before_script:
-install: pip install pybuilder
-script: pyb clean install_dependencies publish
+  - '3.7.0'
+install: 
+  - 'pip install pipenv'
+  - 'pipenv install'
+  - 'pip install --pre pybuilder'
+script: 
+  - 'cd example'
+  - 'pyb clean install_dependencies publish'

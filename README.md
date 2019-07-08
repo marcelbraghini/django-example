@@ -1,4 +1,4 @@
-# Example django + pybuilder
+# Example django + pybuilder [![Build Status](https://travis-ci.org/marcelbraghini/django_example.svg?branch=master)](https://travis-ci.org/marcelbraghini/django_example)
 
 [python 3.7](https://www.python.org/downloads/release/python-370/)<br>
 [pipEnv](https://github.com/pypa/pipenv)<br>
