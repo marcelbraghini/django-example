@@ -22,7 +22,11 @@ pipenv install --pre pybuilder
 * run server
 
 ```python
+# port 8000
 python manage.py runserver
+
+# change port
+python manage.py runserver 8080
 ```
 
 * new project
